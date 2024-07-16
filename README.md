@@ -1,4 +1,4 @@
-# C++
+# C+
 
 ## Ex1
 Feu un programa que, donat un mapa amb tresors i obstacles, digui a quina distància es troba el tresor accessible més llunyà a una posició inicial donada. Els moviments permesos són horitzontals o verticals, però no diagonals. Si cal, es pot passar per sobre dels tresors.
